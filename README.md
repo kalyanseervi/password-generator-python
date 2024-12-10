@@ -1,6 +1,4 @@
-Here’s a `README.md` file template for the **Advanced Password Generator** project. It explains the purpose, features, and how to use the application.
 
----
 
 # 🔒 Advanced Password Generator
 
@@ -129,8 +127,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## 💬 Contact
 
-For any inquiries, reach out at **your.email@example.com**.
-
----
-
-Replace placeholders like `path/to/screenshot.png`, `your-username`, and `your.email@example.com` with actual details specific to your project before adding this file to your repository.
+For any inquiries, reach out at **kalyanseerviy125@gmail.com**.
